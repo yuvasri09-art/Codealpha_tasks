@@ -10,7 +10,7 @@ A research report (800–1000 words) on **IoT Applications in Smart Homes**, cov
 **File:** `Task1_Research_Report/IoT_Smart_Homes_Report.pdf`
 
 ### Task 2: Sensor-Based Simulation
-A simulation of an LED ON/OFF system controlled by a sensor input, built using Tinkercad. Includes circuit screenshots and code explanation.
+A simulation of an LED ON/OFF system controlled by a sensor input, built using Proteus. Includes circuit screenshots and code explanation.
 
 **Folder:** `Task2_Sensor_Simulation/`
 - Simulation screenshots
